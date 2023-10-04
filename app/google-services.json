@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100906114406",
+    "project_id": "shri-ganesh-trade-link",
+    "storage_bucket": "shri-ganesh-trade-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100906114406:android:eba1d6a50471fe383efca7",
+        "android_client_info": {
+          "package_name": "com.example.shriganeshtradelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3FC9aR9UXMuZ5eB94VbkZA6S1FkVQ44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
